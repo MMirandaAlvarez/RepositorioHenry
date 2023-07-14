@@ -1,4 +1,10 @@
-# RepositorioHenry
+ 
+Repositorio Henry
+
 Este es el ejercicio 1 de Heny
 
-esto es agregado desde codigo de comando
+Esto es agregado desde codigo de comando
+
+Se a logrado subir con exito esto a la la nube en mis repositorios personal 
+
+Hola Mundo!!!!!!!!! c:
